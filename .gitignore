@@ -1,0 +1,23 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.so
+*.a
+
+# 调试/构建目录
+build/
+bin/
+cmake-build-*/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
